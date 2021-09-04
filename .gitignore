@@ -1,0 +1,8 @@
+*.o
+*.d
+*.map
+*.elf
+*.bat
+*.zip
+*.log-
+accuracy_test/result/png-raw/

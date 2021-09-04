@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1628876391 source:c:\users\vic\documents\work\arm\sine_approx_04\src\sine_approx_64_3.c
+	"sine_approx_table_header.h"
+
+1628871403 c:\users\vic\documents\work\arm\sine_approx_04\src\sine_approx_table_header.h
+	<stdint.h>
+
+1628866014 source:c:\users\vic\documents\work\arm\sine_approx_04\src\sine_approx_64_3.s
+
+1628864990 source:c:\users\vic\documents\work\arm\sine_approx_04\src\startup_stm32f10x_md.s
+
+1628864991 source:c:\users\vic\documents\work\arm\sine_approx_04\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1628864992 c:\users\vic\documents\work\arm\sine_approx_04\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1628864992 c:\users\vic\documents\work\arm\sine_approx_04\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1628864993 c:\users\vic\documents\work\arm\sine_approx_04\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1628864993 c:\users\vic\documents\work\arm\sine_approx_04\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1628864991 c:\users\vic\documents\work\arm\sine_approx_04\inc\system_stm32f10x.h
+
+1628876409 source:c:\users\vic\documents\work\arm\sine_approx_04\src\main.c
+	"stm32f10x.h"
+
+1628864990 source:c:\users\vic\documents\work\c\sin_approx_04\example\stm32\src\startup_stm32f10x_md.s
+
+1628864990 source:c:\users\vic\documents\work\c\sin_approx_04\example\stm32\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1628864992 c:\users\vic\documents\work\c\sin_approx_04\example\stm32\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1628864992 c:\users\vic\documents\work\c\sin_approx_04\example\stm32\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1628864992 c:\users\vic\documents\work\c\sin_approx_04\example\stm32\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1628864992 c:\users\vic\documents\work\c\sin_approx_04\example\stm32\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1628864990 c:\users\vic\documents\work\c\sin_approx_04\example\stm32\inc\system_stm32f10x.h
+
+1629905836 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_3_3.c
+	<stdint.h>
+
+1629905838 source:c:\users\vic\documents\work\c\sin_approx_04\example\stm32\src\main.c
+	"stm32f10x.h"
+
+1628864990 source:d:\vitek\work\c\sin_approx_04\example\stm32\src\startup_stm32f10x_md.s
+
+1628864990 source:d:\vitek\work\c\sin_approx_04\example\stm32\src\system_stm32f10x.c
+	"stm32f10x.h"
+
+1628864992 d:\vitek\work\c\sin_approx_04\example\stm32\inc\stm32f10x.h
+	"core_cm3.h"
+	"system_stm32f10x.h"
+	<stdint.h>
+	"stm32f10x_conf.h"
+
+1628864992 d:\vitek\work\c\sin_approx_04\example\stm32\cmsis\core_cm3.h
+	<stdint.h>
+	<core_cmInstr.h>
+	<core_cmFunc.h>
+
+1628864992 d:\vitek\work\c\sin_approx_04\example\stm32\cmsis\core_cminstr.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1628864992 d:\vitek\work\c\sin_approx_04\example\stm32\cmsis\core_cmfunc.h
+	<cmsis_iar.h>
+	<cmsis_ccs.h>
+
+1628864990 d:\vitek\work\c\sin_approx_04\example\stm32\inc\system_stm32f10x.h
+
+1629722602 source:d:\vitek\work\c\sin_approx_04\tables\sine_approx_1024_1_5.c
+	<stdint.h>
+
+1629722609 source:d:\vitek\work\c\sin_approx_04\tables\sine_approx_16_5_1.c
+	<stdint.h>
+
+1629722575 source:d:\vitek\work\c\sin_approx_04\tables\sine_approx_16_6_1.c
+	<stdint.h>
+
+1629722615 source:d:\vitek\work\c\sin_approx_04\tables\sine_approx_256_2_5.c
+	<stdint.h>
+
+1629722631 source:d:\vitek\work\c\sin_approx_04\tables\sine_approx_32_4_2.c
+	<stdint.h>
+
+1629722623 source:d:\vitek\work\c\sin_approx_04\tables\sine_approx_64_3_3.c
+	<stdint.h>
+
+1629720945 source:d:\vitek\work\c\sin_approx_04\example\stm32\src\main.c
+	"stm32f10x.h"
+
+1629905808 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_1_5.c
+	<stdint.h>
+
+1629905815 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_5_1.c
+	<stdint.h>
+
+1629905820 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_6_1.c
+	<stdint.h>
+
+1629905825 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_2_5.c
+	<stdint.h>
+
+1629905832 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_4_2.c
+	<stdint.h>
+

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="accuracy_test_04" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/accuracy_test_04" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="t 89-84" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="accuracy_test_04" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="t 89-84" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-D__USE_MINGW_ANSI_STDIO" />
+			<Add option="-DAC0=0x40000000LL" />
+			<Add option="-DDC=0.5" />
+			<Add option="-DTABLE_TYPE=int32_t" />
+			<Add option='-DTABLE_TYPE_NAME=\&quot;INT32\&quot;' />
+		</Compiler>
+		<Unit filename="../tables/all_tables.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/all_tables.h" />
+		<Unit filename="../tables/approx_table_def.h" />
+		<Unit filename="../tables/sine_approx_1024_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_1024_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_1024_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_1024_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_1024_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_1024_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_128_1_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_128_2_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_128_3_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_128_4_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_128_5_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_128_6_4.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16384_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16384_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16384_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16384_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16384_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16384_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16_1_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16_2_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16_3_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16_4_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16_5_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_16_6_1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_2048_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_2048_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_2048_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_2048_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_2048_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_2048_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_256_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_256_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_256_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_256_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_256_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_256_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32768_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32768_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32768_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32768_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32768_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32768_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32_1_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32_2_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32_3_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32_4_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32_5_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_32_6_2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4096_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4096_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4096_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4096_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4096_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4096_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4_1_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4_2_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4_3_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4_4_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4_5_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_4_6_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_512_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_512_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_512_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_512_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_512_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_512_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_64_1_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_64_2_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_64_3_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_64_4_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_64_5_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_64_6_3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_65536_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_65536_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_65536_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_65536_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_65536_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_65536_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8192_1_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8192_2_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8192_3_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8192_4_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8192_5_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8192_6_5.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8_1_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8_2_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8_3_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8_4_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8_5_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../tables/sine_approx_8_6_0.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

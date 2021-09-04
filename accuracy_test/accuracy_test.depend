@@ -1,0 +1,290 @@
+# depslib dependency file v1.0
+1630337934 source:c:\users\vic\documents\work\c\sin_approx_04\tables\all_tables.c
+	"approx_table_def.h"
+	"all_tables.h"
+
+1630758639 c:\users\vic\documents\work\c\sin_approx_04\tables\approx_table_def.h
+	<stdint.h>
+
+1630337934 c:\users\vic\documents\work\c\sin_approx_04\tables\all_tables.h
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_1_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_2_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_3_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_4_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_5_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_1024_6_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_128_1_4.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_128_2_4.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_128_3_4.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_128_4_4.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_128_5_4.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_128_6_4.c
+	<stdint.h>
+
+1630337973 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16384_1_5.c
+	<stdint.h>
+
+1630337973 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16384_2_5.c
+	<stdint.h>
+
+1630337973 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16384_3_5.c
+	<stdint.h>
+
+1630337973 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16384_4_5.c
+	<stdint.h>
+
+1630337974 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16384_5_5.c
+	<stdint.h>
+
+1630337974 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16384_6_5.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_1_1.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_2_1.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_3_1.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_4_1.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_5_1.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_16_6_1.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_2048_1_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_2048_2_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_2048_3_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_2048_4_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_2048_5_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_2048_6_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_1_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_2_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_3_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_4_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_5_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_256_6_5.c
+	<stdint.h>
+
+1630337974 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32768_1_5.c
+	<stdint.h>
+
+1630337974 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32768_2_5.c
+	<stdint.h>
+
+1630337975 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32768_3_5.c
+	<stdint.h>
+
+1630337975 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32768_4_5.c
+	<stdint.h>
+
+1630337976 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32768_5_5.c
+	<stdint.h>
+
+1630337976 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32768_6_5.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_1_2.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_2_2.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_3_2.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_4_2.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_5_2.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_32_6_2.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4096_1_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4096_2_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4096_3_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4096_4_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4096_5_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4096_6_5.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4_1_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4_2_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4_3_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4_4_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4_5_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_4_6_0.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_512_1_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_512_2_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_512_3_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_512_4_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_512_5_5.c
+	<stdint.h>
+
+1630337971 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_512_6_5.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_1_3.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_2_3.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_3_3.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_4_3.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_5_3.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_64_6_3.c
+	<stdint.h>
+
+1630337977 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_65536_1_5.c
+	<stdint.h>
+
+1630337977 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_65536_2_5.c
+	<stdint.h>
+
+1630337978 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_65536_3_5.c
+	<stdint.h>
+
+1630337979 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_65536_4_5.c
+	<stdint.h>
+
+1630337980 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_65536_5_5.c
+	<stdint.h>
+
+1630337981 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_65536_6_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8192_1_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8192_2_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8192_3_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8192_4_5.c
+	<stdint.h>
+
+1630337972 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8192_5_5.c
+	<stdint.h>
+
+1630337973 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8192_6_5.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8_1_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8_2_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8_3_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8_4_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8_5_0.c
+	<stdint.h>
+
+1630337970 source:c:\users\vic\documents\work\c\sin_approx_04\tables\sine_approx_8_6_0.c
+	<stdint.h>
+
+1630758233 source:c:\users\vic\documents\work\c\sin_approx_04\accuracy_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"../tables/approx_table_def.h"
+	<time.h>
+	<windows.h>
+

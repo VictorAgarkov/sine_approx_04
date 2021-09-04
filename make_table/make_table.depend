@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630224823 source:c:\users\vic\documents\work\c\sin_approx_04\make_table\gaussian.c
+	<string.h>
+	<stdlib.h>
+	"gaussian.h"
+
+1628933156 c:\users\vic\documents\work\c\sin_approx_04\make_table\gaussian.h
+
