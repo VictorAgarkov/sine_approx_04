@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631885378 source:d:\vitek\work\c\chebyshev_maclaurin_accuracy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<math.h>
+	<string.h>
+
