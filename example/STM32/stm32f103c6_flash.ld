@@ -27,7 +27,7 @@
 /* ---------------------------------------------------------------------------- */
 
 /*------------------------------------------------------------------------------
- *      Linker script for running in internal SRAM on the STM32F103C8
+ *      Linker script for running in internal FLASH on the STM32F103C6
  *----------------------------------------------------------------------------*/
 
 OUTPUT_FORMAT("elf32-littlearm", "elf32-littlearm", "elf32-littlearm")
@@ -37,8 +37,8 @@ SEARCH_DIR(.)
 /* Memory Spaces Definitions */
 MEMORY
 {
-    ROM  (rx) : ORIGIN = 0x08000000, LENGTH = 64K
-    RAM (rwx) : ORIGIN = 0x20000000, LENGTH = 20K
+    ROM  (rx) : ORIGIN = 0x08000000, LENGTH = 32K
+    RAM (rwx) : ORIGIN = 0x20000000, LENGTH = 10K
 }
 
 /* Linker script to place sections and symbol values. Should be used together
@@ -96,18 +96,18 @@ SECTIONS
 		*(.rodata*)
 
 		KEEP(*(.eh_frame*))
-	} > RAM
+	} > ROM
 
 	.ARM.extab : 
 	{
 		*(.ARM.extab* .gnu.linkonce.armextab.*)
-	} > RAM
+	} > ROM
 
 	__exidx_start = .;
 	.ARM.exidx :
 	{
 		*(.ARM.exidx* .gnu.linkonce.armexidx.*)
-	} > RAM
+	} > ROM
 	__exidx_end = .;
 
 	__etext = .;
@@ -166,7 +166,6 @@ SECTIONS
 	 * values to stack symbols later */
 	.stack_dummy (NOLOAD):
 	{
-	        . = ALIGN(8);
 		*(.stack)
 	} > RAM
 
